@@ -1,6 +1,6 @@
 # Tutorial bot - Youtube
 
-Click *branches* to select which episode you would like to jump to!
+Click **branches** to select which *episode* you would like to jump to!
 
 All the code is from the [Dustie](https://dustie.xyz/youtube) youtube channel - How to make a discord bot.
 
